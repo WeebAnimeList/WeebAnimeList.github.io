@@ -1756,6 +1756,14 @@ body {
 .cid-qOTh0fij3h {
   background-image: url("../../../assets/images/43964083-p0-1920x1080.png");
 }
+.cid-qOTh0fij3h .mbr-text,
+.cid-qOTh0fij3h .mbr-section-btn {
+  color: #232323;
+}
+.cid-qOTh0fij3h .mbr-text,
+.cid-qOTh0fij3h .mbr-section-btn P {
+  text-align: center;
+}
 .cid-qOj172LW0H {
   padding-top: 90px;
   padding-bottom: 90px;
